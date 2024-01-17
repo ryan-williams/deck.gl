@@ -2,7 +2,7 @@
   "name": "@deck.gl/google-maps",
   "description": "Use deck.gl as a custom Google Maps overlay",
   "license": "MIT",
-  "version": "9.0.0-alpha.6",
+  "version": "9.0.0-alpha.7",
   "publishConfig": {
     "access": "public"
   },
@@ -38,10 +38,10 @@
   },
   "peerDependencies": {
     "@deck.gl/core": "^9.0.0-alpha",
-    "@luma.gl/constants": "9.0.0-alpha.52",
-    "@luma.gl/core": "9.0.0-alpha.52",
-    "@luma.gl/engine": "9.0.0-alpha.52",
-    "@luma.gl/webgl": "9.0.0-alpha.52",
+    "@luma.gl/constants": "9.0.0-alpha.53",
+    "@luma.gl/core": "9.0.0-alpha.53",
+    "@luma.gl/engine": "9.0.0-alpha.53",
+    "@luma.gl/webgl": "9.0.0-alpha.53",
     "@math.gl/core": "^4.0.0"
   },
   "gitHead": "13ace64fc2cee08c133afc882fc307253489a4e4"
